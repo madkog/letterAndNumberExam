@@ -49,7 +49,7 @@ Please comment and uncomment and change variables to trigger results.
 ## 3) I prefer docker 
 
 
-I have not included a docker for this as it was not part of the orginal spec. 
+I have not included a docker for this as it was not part of the original spec. 
 
 If you would like this dockerised please ask.
 
