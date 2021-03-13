@@ -66,7 +66,7 @@ class StringLetterCounter {
     } 
 }
 
-class nextSmallestNumber {
+class NextSmallestNumber {
     private $outputText = 'nextSmaller';
 
     function __construct() {}
